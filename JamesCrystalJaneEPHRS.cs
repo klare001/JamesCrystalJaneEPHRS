@@ -18,9 +18,9 @@ public class Employee
 
 class Program
 {
-    // Empty list starting with 0 pre-defined records
+   
     static List<Employee> employees = new List<Employee>();
-    static int nextId = 1001; // Auto-increment starting at 1001
+    static int nextId = 1001; 
 
     static void Main(string[] args)
     {
@@ -28,7 +28,7 @@ class Program
         while (running)
         {
             Console.Clear();
-            Console.WriteLine("=== EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM ===" );
+            Console.WriteLine("=== EMPLOYEE PAYROLL & HR MANAGEMENT  ===" );
             Console.WriteLine("1. Create (Add Employee)");
             Console.WriteLine("2. Read (View All Employees)");
             Console.WriteLine("3. Search / Filter Employees");
