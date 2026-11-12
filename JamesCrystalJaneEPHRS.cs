@@ -4,23 +4,22 @@ using System.Linq;
 
 public class Employee
 {
-    public int Id { get; set; }                  // Column 1
-    public string FirstName { get; set; }        // Column 2
-    public string LastName { get; set; }         // Column 3
-    public string Department { get; set; }       // Column 4
-    public string JobTitle { get; set; }         // Column 5
-    public decimal MonthlySalary { get; set; }   // Column 6
-    public double TaxRate { get; set; }          // Column 7
-    public DateTime HireDate { get; set; }       // Column 8
-    public bool IsActive { get; set; }           // Column 9
-    public string Email { get; set; }            // Column 10
+    public int Id { get; set; }                  
+    public string FirstName { get; set; }        
+    public string LastName { get; set; }         
+    public string Department { get; set; }       
+    public string JobTitle { get; set; }         
+    public decimal MonthlySalary { get; set; }   
+    public double TaxRate { get; set; }          
+    public DateTime HireDate { get; set; }       
+    public bool IsActive { get; set; }           
+    public string Email { get; set; }            
 }
 
 class Program
 {
-    // Empty list starting with 0 pre-defined records
     static List<Employee> employees = new List<Employee>();
-    static int nextId = 1001; // Auto-increment starting at 1001
+    static int nextId = 1001; 
 
     static void Main(string[] args)
     {
@@ -28,7 +27,7 @@ class Program
         while (running)
         {
             Console.Clear();
-            Console.WriteLine("=== EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM ===" );
+            Console.WriteLine("=== EMPLOYEE PAYROLL & HR MANAGEMENT PORTAL ===" );
             Console.WriteLine("1. Create (Add Employee)");
             Console.WriteLine("2. Read (View All Employees)");
             Console.WriteLine("3. Search / Filter Employees");
@@ -97,7 +96,7 @@ class Program
         Console.Write("Enter Hire Date (YYYY-MM-DD): ");
         if (!DateTime.TryParse(Console.ReadLine(), out DateTime hireDate))
         {
-            hireDate = DateTime.Now; // Default to today if invalid format
+            hireDate = DateTime.Now;
         }
 
         Console.Write("Is Active? (true/false): ");
