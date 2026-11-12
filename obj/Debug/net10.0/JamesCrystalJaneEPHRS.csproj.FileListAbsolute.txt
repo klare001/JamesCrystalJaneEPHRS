@@ -1,0 +1,14 @@
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\obj\Debug\net10.0\JamesCrystalJaneEPHRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\obj\Debug\net10.0\JamesCrystalJaneEPHRS.AssemblyInfoInputs.cache
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\obj\Debug\net10.0\JamesCrystalJaneEPHRS.AssemblyInfo.cs
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\obj\Debug\net10.0\JamesCrystalJaneEPHRS.csproj.CoreCompileInputs.cache
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\bin\Debug\net10.0\JamesCrystalJaneEPHRS.exe
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\bin\Debug\net10.0\JamesCrystalJaneEPHRS.deps.json
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\bin\Debug\net10.0\JamesCrystalJaneEPHRS.runtimeconfig.json
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\bin\Debug\net10.0\JamesCrystalJaneEPHRS.dll
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\bin\Debug\net10.0\JamesCrystalJaneEPHRS.pdb
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\obj\Debug\net10.0\JamesCrystalJaneEPHRS.dll
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\obj\Debug\net10.0\refint\JamesCrystalJaneEPHRS.dll
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\obj\Debug\net10.0\JamesCrystalJaneEPHRS.pdb
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\obj\Debug\net10.0\JamesCrystalJaneEPHRS.genruntimeconfig.cache
+C:\Users\Crystal Jane James\JamesCrystalJaneEPHRS\obj\Debug\net10.0\ref\JamesCrystalJaneEPHRS.dll
